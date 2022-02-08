@@ -1,0 +1,7 @@
+dependencies:
+  - "OpenZeppelin/openzeppelin-contracts@4.4.2/contracts/access/Ownable.sol"
+networks:
+  default: development
+hypothesis:
+  max_examples: 50
+  deadline: 20000
